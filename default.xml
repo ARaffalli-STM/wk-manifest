@@ -3,7 +3,7 @@
   <remote fetch="https://github.com" name="github"/>
   <remote fetch="http://git.openembedded.org" name="oe"/>
   <remote fetch="https://github.com/STMicroelectronics" name="OpenSTLinux"/>
-  <remote fetch="https://git.yoctoproject.org" name="yocto"/>
+  <remote fetch="git://git.yoctoproject.org" name="yocto"/>
   
   <default remote="OpenSTLinux"/>
   
