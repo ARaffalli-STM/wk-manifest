@@ -18,4 +18,5 @@
   <project name="Azure/meta-iotedge" path="layers/meta-iotedge" remote="github" revision="6840cf2afb51b4f2c535a05d5635736652f664f7"/>
   <project name="meta-rust/meta-rust" path="layers/meta-rust" remote="github" revision="e4d25b98083bcecb94df6ee189a165d63ede7f3d"/>
   <project name="meta-virtualization" path="layers/meta-virtualization" remote="yocto" revision="92cd3467502bd27b98a76862ca6525ce425a8479"/>
+  <project name="ARaffalli-STM/meta-st-workshop" path="layers/meta-st/meta-st-workshop" remote="github" revision="8450a08d6b3db540aa7cde74e7524d6c6892c825"/>
 </manifest>
