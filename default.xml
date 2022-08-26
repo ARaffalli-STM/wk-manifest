@@ -15,5 +15,5 @@
   <project name="meta-st-scripts" path="layers/meta-st/scripts" revision="510c8b0fd79257a527bf45855b1fe6b4f0c49510"/>
   <project name="openembedded-core" path="layers/openembedded-core" remote="oe" revision="cb8647c08959abb1d6b7c2b3a34b4b415f66d7ee"/>
   <project name="aws/meta-aws" path="layers/meta-aws" remote="github" revision="4ffc63cf28ff925bb67477cbaf7e390e968b1f8e"/>
-  <project name="ARaffalli-STM/AP-meta-st-aws_ggv2" path="layers/meta-st/AP-meta-st-aws_ggv2" remote="github" revision="550ea69050e537ed8375fe37664533c9f4cdc74b"/>
+  <project name="ARaffalli-STM/AP-meta-st-aws_ggv2" path="layers/meta-st/AP-meta-st-aws_ggv2" remote="github" revision="3d95de41e0f59038b4bc2c7279fc6cc071fc19fd"/>
 </manifest>
